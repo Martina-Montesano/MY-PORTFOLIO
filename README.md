@@ -42,15 +42,15 @@ Spiegazione: tutto è andato bene, dice al computer che il programma non present
 Ente: Museo delle Antiche Genti di Lucania 
 Periodo: 2023-2024
 Durante il mio anno di Servizio Civile, ho operato all'interno di un contesto culturale unico gestendo la valorizzazione sia dei reperti archeologici di Vaglio Basilicata sia dei modelli ingegneristici di Leonardo Da Vinci, attraverso l’area del museo contenente riproduzioni di studi e modellini in legno di vari ambiti. 
-che si rilascia anato/a ailPOTENZA (PZ)ha portato a termine il progetto di servizio civile:GENERARE CULTURArealizzato da: COMUNE DI PIETRAGALLA06 gennaio 20043 febbraio 2026dal 12 settembre 2023 al 26 giugno 2024Roma,MARTINA MONTESANOAttestatoIL CAPO DEL DIPARTIMENTOIl presente certificato non può essere prodotto agli organi della Pubblica amministrazione o aiprivati gestori di pubblici servizi, ai sensi dell'art. 15, comma 1 della legge 12/11/2011, n. 183.svolgendo attività
+[📄 Clicca qui per visualizzare il mio PDF](attestazionefineservizio.pdf)
 ATTIVITA’ E RESPONSABILITA’
 GESTIONE AREA ARCHEOLOGICA:
  Cura ed esposizione dei reperti alcuni originali, altre riproduzioni del mio territorio appartenenti ai siti di Serra di Vaglio e Rossano.
-
 Area archeologica reperti di Serra di Vaglio e Rossano.
 GESTIONE AREA SCENTIFICA: 
 Cura, approfondimento ed esposizione dettagliata dei modelli delle macchine di Leonardo Da Vinci, permettendomi di spiegare concetti complessi ad un pubblico eterogeneo.
 Progetti e Modelli
+<img src="Museo%202%20foto.jpeg" width="300" title="Attività al Museo">
 Soft Skills:
 Capacità di lavorare in team con esperti di differenti settori, partecipando a progetti in gruppo sia in smart working che in presenza, mediante diverse sedi come per esempio l’Unibas.
 Ho imparato a collaborare con persone estranee al mio gruppo di lavoro, sviluppando una grande adattabilità a diversi contesti di altri progetti, aumentando le mie capacità inventive e di problem solving.
@@ -59,7 +59,7 @@ Ho imparato a collaborare con persone estranee al mio gruppo di lavoro, sviluppa
 👷🏻 Luogo: Scavi di Vaglio Basilicata
 Serra di Vaglio-Santuario archeologico di Macchia di Rossano
 Questa esperienza ha consolidato la mia conoscenza territoriale e la mia capacità di analisi visiva poiché in archeologia come in informatica è importante guardare “sotto la superficie” per capirne il funzionamento.
-Siti:
+Siti:![Rossano](rossano%201.jpeg) ![Serra](Serra%201.jpeg)
 Contatti
 INFORMAZIONI
 EMAIL
